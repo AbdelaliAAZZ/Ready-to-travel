@@ -15,7 +15,7 @@ A React-based travel packing list application to help you organize your trip ess
 
 ## Live Demo 🚀
 
-[View Demo](https://ready-to-travel.vercel.app)
+[View Demo](https://ready-to-travel.vercel.app/)
 
 ## Installation 💻
 
