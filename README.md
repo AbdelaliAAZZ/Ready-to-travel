@@ -2,7 +2,7 @@
 
 A React-based travel packing list application to help you organize your trip essentials.
 
-![App Screenshot](https://imgur.com/a/6LQ17ok)
+![App Screenshot](./src/assets/image.png)
 
 ## Features 🎯
 
