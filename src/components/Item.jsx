@@ -1,6 +1,4 @@
 
-
- 
 function Item({item , onDelete , onToggele}) {
  
 

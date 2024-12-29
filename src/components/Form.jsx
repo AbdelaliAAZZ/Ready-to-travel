@@ -11,7 +11,7 @@ function Form({addItem}) {
     // prevent the refresh of the page
     e.preventDefault() 
 
-    if(!description){
+    if(!description.trim()){
       alert('Please enter an item description');
     }  
     // create a new item object
