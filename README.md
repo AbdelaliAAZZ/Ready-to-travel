@@ -1,8 +1,38 @@
-# React + Vite
+# Ready to Travel ✈️
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based travel packing list application to help you organize your trip essentials.
 
-Currently, two official plugins are available:
+![App Screenshot](./src/assets/image.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features 🎯
+
+- Add items with quantities
+- Mark items as packed/unpacked
+- Sort items by different criteria
+- Track packing progress
+- Delete individual items
+- Clear entire list with confirmation
+
+## Live Demo 🚀
+
+[View Demo](https://ready-to-travel.vercel.app/)
+
+## Installation 💻
+
+```bash
+# Clone repository
+git clone https://github.com/AbdelaliAAZZ/Ready-to-travel.git
+
+# Navigate to project
+cd Ready-to-travel
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+## Technologies Used 🛠️
+React.js
+CSS3
+Vite
