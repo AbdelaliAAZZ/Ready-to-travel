@@ -12,7 +12,8 @@ function Form({addItem}) {
     e.preventDefault() 
 
     if(!description.trim()){
-      alert('Please enter an item description');
+      alert('Please enter an item description')
+      return ;
     }  
     // create a new item object
      const newItem ={
